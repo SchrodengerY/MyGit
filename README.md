@@ -19,9 +19,7 @@ other_data.txt, sketch.txt.
 	
 	HF4_1.py shows you by using "try-except" and "with" to save the data.
 
-	HF4_2.py shows you how to use lib-pickle and func 'pickle.dump' for saving data 
-
-as well as func 'pickle.load' for reloading data.
+	HF4_2.py shows you how to use lib-pickle and func 'pickle.dump' for saving data as well as func 'pickle.load' for reloading data.
 
 	sketch.txt includes the data that are waited to be dealed with.
 
