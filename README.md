@@ -1,6 +1,6 @@
 # MyGit
 
-This is python code for Book <HEAD FIRST Python>
+This is python code for Book 'Head First Python'
 
 Chapter1 includes HF1.py which introduces the use of LIST & “递归算法”.
 
