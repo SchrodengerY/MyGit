@@ -28,3 +28,9 @@ other_data.txt, sketch.txt.
 	other_data.txt includes the others' data.
 
 	mydata.pickle is established by 'pickle.dump'
+
+Chapter 5 includes HF5_1.py, HF5_2.py and four txt file.
+
+	HF5_1 shows how to unique the data and use of function "sort" & "sorted".
+
+	HF5_2 shows 使用推导列表简化数据处理，使用set删除重复元素.
