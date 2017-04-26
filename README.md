@@ -19,7 +19,7 @@ other_data.txt, sketch.txt.
 	
 	HF4_1.py shows you by using "try-except" and "with" to save the data.
 
-	HF4_2.py shows you how to use lib-pickle and func 'pickle.dump' for saving data 	as well as func 'pickle.load' for reloading data.
+	HF4_2.py shows you how to use lib-pickle and func 'pickle.dump' for saving data as well as func 'pickle.load' for reloading data.
 
 	sketch.txt includes the data that are waited to be dealed with.
 
@@ -29,8 +29,14 @@ other_data.txt, sketch.txt.
 
 	mydata.pickle is established by 'pickle.dump'
 
-Chapter 5 includes HF5_1.py, HF5_2.py and four txt file.
+Chapter5 includes HF5_1.py, HF5_2.py and four txt file.
 
 	HF5_1 shows how to unique the data and use of function "sort" & "sorted".
 
 	HF5_2 shows 使用推导列表简化数据处理，使用set删除重复元素.
+
+Chapter6 includes HF6_1.py, HF6_2.py, 'sarah2.txt'.
+
+	HF6_1 : 如何使用定制类来处理数据.
+
+	HF6_2 : 如何使用继承类来简化.
